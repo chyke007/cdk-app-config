@@ -1,0 +1,6 @@
+{
+    "active_llm_model": "gpt-4o",
+    "enable_fallback_to_cheap_model": true,
+    "max_input_tokens_allowed": 20,
+    "system_prompt_version": "v2.1"
+}
